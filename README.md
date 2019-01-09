@@ -1,8 +1,8 @@
 # interviews
 
 Realice esté repositorio para las personas que, cómo yo, sabemos útilizar diferentes
-lenguajes de progrmación y queremos buscar empleo pero en las entrevistas nos va mal,
-no porque no sepamos programar, sino que las preguntas son tan especificas del
+lenguajes de programación y queremos buscar empleo pero en las entrevistas nos va mal,
+no porque no sepamos programar, sino porque las preguntas son tan especificas del
 lenguaje que, en ocasiones, nos confundimos con otros lenguajes.
 
 Está es una guía de posibles preguntas para la posición en la que estas aplicando
